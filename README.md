@@ -4,4 +4,4 @@ Builds on the work of Scott and Rob Tillart
 
 Needs hands on coding to calibrate and tailor the angles read to the display
 
-Further coding to be added to the project
+Further coding to be added to the project, still a work in progress
