@@ -3,6 +3,8 @@ Due to the simplicity of the project, ie, no added pusbuttons to set or incremen
 
 Hardware - Arduino Uno or Nano easy. This code has been tested on both and works. The solution could be ported to any microprocessor that has an I2C bus and provides 3.3V and 5V for the sensor and Oled displays.
 
+AS5600 3.3V absolute encoder, 1.3 inch 5V Mono OLED display from Ebay or similar, 3d printed parts, piece of veroboard, and a "shield" for your microprocessor to enable easy board connections.
+
 Needs hands on coding to calibrate and tailor the angles read to the display
 
 Further coding to be added to the project, still a work in progress
