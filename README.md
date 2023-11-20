@@ -5,6 +5,8 @@ Hardware - Arduino Uno or Nano Every. This code has been tested on both and work
 
 AS5600 3.3V absolute encoder, 1.3 inch 5V Mono OLED display from Ebay or similar, 3d printed parts, piece of veroboard, and a "shield" for your microprocessor to enable easy board connections.
 
+Many examples of AS5600 and Oled on Youtube
+
 Needs hands on coding to calibrate and tailor the angles read to the display
 
 The two sensor arms are examples, I expect you will need to tailor the length, for example, to suit your particular installation.
