@@ -7,7 +7,7 @@ AS5600 3.3V absolute encoder, 1.3 inch 5V Mono OLED display from Ebay or similar
 
 Needs hands on coding to calibrate and tailor the angles read to the display
 
-The two sensor arms are examples, I expect you will need to tailor the length for example to suit your particular installation.
+The two sensor arms are examples, I expect you will need to tailor the length, for example, to suit your particular installation.
 https://www.tinkercad.com/things/aveWrb0Cxmn-flap-sensor-lever
 
 V 1 is complete, ideally V2 will use interupt handling to read the sensor rather than the timer in use now.
