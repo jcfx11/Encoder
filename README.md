@@ -12,4 +12,4 @@ https://www.tinkercad.com/things/aveWrb0Cxmn-flap-sensor-lever
 
 V 1 is complete, ideally V2 will use interupt handling to read the sensor rather than the timer in use now.
 
-Please excuse my woky soldering and photos, I'm on holiday.
+Please excuse my wonky soldering and photos, I'm on holiday.
